@@ -8,7 +8,7 @@ void title();
 void GetInfo(string [], string [], string [], string [], int [], int[]);
 void display(string [], string [], string [], string [], int [], int[]);
 
-int arraysize = 5;
+int arraysize = 10;
 
 int main()
 {
@@ -29,10 +29,10 @@ int main()
     return 0;
 }
 
-/*void title()
-{
-    cout << "\t\tActivi"
-}*/
+
+
+
+
 
 void GetInfo(string lname [], string fname[], string email[], string address[], int age [], int contact[])
 {
